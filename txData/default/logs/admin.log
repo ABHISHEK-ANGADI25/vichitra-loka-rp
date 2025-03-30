@@ -1,0 +1,29 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 13890 Starting - 3/28/2025, 6:29:53 PM
+================================================================
+[18:33:54][Abhishek_Angadi] created admins file
+[18:36:47][Abhishek_Angadi] Config changes: general.serverName
+[18:36:47][Abhishek_Angadi] Changing global settings via setup stepper and started Deployer.
+[18:37:15][Abhishek_Angadi] Setting recipe.
+[18:43:16][Abhishek_Angadi] Config changes: 
+[18:43:16][Abhishek_Angadi] Changing global settings via setup stepper and started Deployer.
+[18:43:22][Abhishek_Angadi] Setting recipe.
+[18:44:58][Abhishek_Angadi] Config changes: 
+[18:44:58][Abhishek_Angadi] Changing global settings via setup stepper and started Deployer.
+[18:44:59][Abhishek_Angadi] Setting recipe.
+[18:46:46][Abhishek_Angadi] Running recipe.
+[18:49:45][Abhishek_Angadi] Config changes: server.dataPath
+[18:49:45][Abhishek_Angadi] Completed and committed server deploy.
+[18:57:43][Abhishek_Angadi] Config changes: general.serverName
+================================================================
+======== txAdmin v8.0.1 atop fxserver 13890 Starting - 3/28/2025, 7:00:41 PM
+================================================================
+[19:00:56][Abhishek_Angadi] logged in from 49.37.243.91 via cfxre
+[19:18:47][Abhishek_Angadi] [Abhishek_Angadi] executed "RESTART SERVER"
+[16:35:06][Abhishek_Angadi] Added 292064ceeeb052f3cddacccda25f20df30c91ec5 to the whitelist.
+[16:36:15][Abhishek_Angadi] Adding user 'user'.
+[16:40:41][Abhishek_Angadi] [Abhishek_Angadi] executed "RESTART SERVER"
+[16:47:45][Abhishek_Angadi] Editing user 'user'.
+[18:58:41][Abhishek_Angadi] Editing user 'user'.
+[19:00:39][Abhishek_Angadi] [Abhishek_Angadi] executed "RESTART SERVER"
+[06:17:12][Abhishek_Angadi] logged in from 49.37.243.91 via cfxre

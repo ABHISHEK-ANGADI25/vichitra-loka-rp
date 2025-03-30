@@ -1,0 +1,2771 @@
+================================================================
+======== Log Rotated - 3/29/2025, 12:00:00 AM                   
+================================================================
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 220 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 695 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] is loading into the server
+[ citizen-server-impl] server thread hitch warning: timer interval of 671 milliseconds
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] is loading into the server
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[script:qb-multichara] [qb-core] Bangalore Mafia Yt has successfully loaded!
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 234 milliseconds
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[ citizen-server-impl] server thread hitch warning: timer interval of 205 milliseconds
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] is loading into the server
+[ script:connectqueue] QUEUE: Bangalore Mafia Yt[license:6d1090939eccea46cf149b75184899b4a994aeb0] was placed 1/1 in queue
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[script:qb-multichara] [qb-core] Bangalore Mafia Yt (Citizen ID: ANM25993) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[ script:connectqueue] QUEUE: abhishekangadi.25[license:4252f8948177e7da55103dd17359fd4969d4f1d9] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: abhishekangadi.25[license:4252f8948177e7da55103dd17359fd4969d4f1d9] is loading into the server
+[      script:qb-core] [qb-core:LOG] Bangalore Mafia Yt PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] abhishekangadi.25 PLAYER SAVED!
+[script:qb-multichara] [qb-core] abhishekangadi.25 (Citizen ID: VYX82383) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] abhishekangadi.25 PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] abhishekangadi.25 PLAYER SAVED!
+[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] is loading into the server
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[script:qb-multichara] [qb-core] user has successfully loaded!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+║             TXADMIN║ txaEvent "whitelistPlayer" "{\"action\":\"added\",\"license\":\"292064ceeeb052f3cddacccda25f20df30c91ec5\",\"playerName\":\"user\",\"adminName\":\"Abhishek_Angadi\"}"
+║             TXADMIN║ txaEvent "adminsUpdated" "[7]"
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] is loading into the server
+[ script:connectqueue] QUEUE: jann kumar[license:9fef770c8edb2589a054a54028601db81233345a] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: jann kumar[license:9fef770c8edb2589a054a54028601db81233345a] is loading into the server
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"Abhishek_Angadi\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [30585] FXServer Starting - 3/29/2025, 4:40:46 PM      
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 98 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for qb-core
+[           resources] Started resource qb-core
+[           resources] Started resource menuv
+[    c-scripting-core] Creating script environments for qb-adminmenu
+[           resources] Started resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] Creating script environments for qb-clothing
+[           resources] Started resource qb-clothing
+[    c-scripting-core] Creating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] Creating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for qb-banking
+[           resources] Started resource qb-banking
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] Started resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-crafting
+[           resources] Started resource qb-crafting
+[           resources] Started resource qb-minigames
+[    c-scripting-core] Creating script environments for qb-crypto
+[           resources] Started resource qb-crypto
+[    c-scripting-core] Creating script environments for qb-diving
+[           resources] Started resource qb-diving
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] Creating script environments for qb-drugs
+[           resources] Started resource qb-drugs
+[    c-scripting-core] Creating script environments for qb-garages
+[           resources] Started resource qb-garages
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[    c-scripting-core] Creating script environments for qb-hud
+[           resources] Started resource qb-hud
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] Creating script environments for qb-inventory
+[           resources] Started resource qb-inventory
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[           resources] Started resource qb-loading
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-spawn
+[           resources] Started resource qb-spawn
+[    c-scripting-core] Creating script environments for qb-multicharacter
+[           resources] Started resource qb-multicharacter
+[    c-scripting-core] Creating script environments for qb-newsjob
+[           resources] Started resource qb-newsjob
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-phone
+[           resources] Started resource qb-phone
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] Started resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] Started resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] Started resource qb-recyclejob
+[    c-scripting-core] Creating script environments for qb-scoreboard
+[           resources] Started resource qb-scoreboard
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-shops
+[           resources] Started resource qb-shops
+[    c-scripting-core] Creating script environments for qb-smallresources
+[           resources] Started resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] Started resource qb-storerobbery
+[    c-scripting-core] Creating script environments for qb-streetraces
+[           resources] Started resource qb-streetraces
+[           resources] Started resource qb-target
+[    c-scripting-core] Creating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] Started resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] Started resource qb-vehiclekeys
+[    c-scripting-core] Creating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-vineyard
+[           resources] Started resource qb-vineyard
+[    c-scripting-core] Creating script environments for qb-weed
+[           resources] Started resource qb-weed
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for connectqueue
+[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[           resources] Stopping resource hardcap
+[           resources] Started resource connectqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[           resources] Started resource progressbar
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for qb-radio
+[           resources] Started resource qb-radio
+[           resources] Started resource dealer_map
+[           resources] Started resource hospital_map
+[           resources] Started resource prison_canteen
+[resources:prison_mai] Asset prison_main/desertos_prison.ytd uses 30.5 MiB of physical memory.
+[           resources] Started resource prison_main (1 warning)
+[           resources] Started resource prison_meeting
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.11.11-MariaDB-0+deb12u1] Database server connection established!
+[      script:oxmysql] An update is available for oxmysql (current version: 2.12.0)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.13.0
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://abhishek-angadi-mr4bq7.users.cfx.re/
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] is loading into the server
+[ script:connectqueue] QUEUE: jann kumar[license:9fef770c8edb2589a054a54028601db81233345a] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: jann kumar[license:9fef770c8edb2589a054a54028601db81233345a] is loading into the server
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[script:qb-multichara] [qb-core] user (Citizen ID: HCR97996) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[script:qb-multichara] [qb-core] jann kumar has successfully loaded!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[         script:chat] jann kumar: hi
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+║             TXADMIN║ txaEvent "adminsUpdated" "[1]"
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[         script:chat] user: t/admin
+[ script:connectqueue] QUEUE: PC[license:4252f8948177e7da55103dd17359fd4969d4f1d9] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: PC[license:4252f8948177e7da55103dd17359fd4969d4f1d9] is loading into the server
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[script:qb-multichara] [qb-core] PC (Citizen ID: VYX82383) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[         script:chat] user: t/revive 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[script:qb-weathersyn] Time has changed to 19:19.
+[script:qb-weathersyn] Time has changed to 19:19.
+[script:qb-weathersyn] Time has changed to 16:16.
+[script:qb-weathersyn] Time has changed to 10:10.
+[script:qb-weathersyn] Time has changed to 8:8.
+[script:qb-weathersyn] Time has changed to 10:10.
+[         script:chat] PC: nnnn
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 3
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[         script:chat] PC: nnnn
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 2
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[ script:qb-inventory] AddItem: Invalid item
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] AddItem: Not enough weight available
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] jann kumar PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[ script:connectqueue] QUEUE: PC[license:4252f8948177e7da55103dd17359fd4969d4f1d9] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: PC[license:4252f8948177e7da55103dd17359fd4969d4f1d9] is loading into the server
+[ script:qb-inventory] Setting inventory for 1
+[ script:qb-inventory] Setting inventory for 1
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[script:qb-multichara] [qb-core] PC (Citizen ID: VYX82383) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] PC PLAYER SAVED!
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: user[license:292064ceeeb052f3cddacccda25f20df30c91ec5] is loading into the server
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[script:qb-multichara] [qb-core] user (Citizen ID: HCR97996) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] RemoveItem: Slot not found
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+[ script:qb-inventory] Setting inventory for 5
+║             TXADMIN║ txaEvent "adminsUpdated" "[5]"
+[      script:qb-core] [qb-core:LOG] user PLAYER SAVED!
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"Abhishek_Angadi\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [32794] FXServer Starting - 3/29/2025, 7:00:45 PM      
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 98 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for qb-core
+[           resources] Started resource qb-core
+[           resources] Started resource menuv
+[    c-scripting-core] Creating script environments for qb-adminmenu
+[           resources] Started resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] Creating script environments for qb-clothing
+[           resources] Started resource qb-clothing
+[    c-scripting-core] Creating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] Creating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for qb-banking
+[           resources] Started resource qb-banking
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] Started resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-crafting
+[           resources] Started resource qb-crafting
+[           resources] Started resource qb-minigames
+[    c-scripting-core] Creating script environments for qb-crypto
+[           resources] Started resource qb-crypto
+[    c-scripting-core] Creating script environments for qb-diving
+[           resources] Started resource qb-diving
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] Creating script environments for qb-drugs
+[           resources] Started resource qb-drugs
+[    c-scripting-core] Creating script environments for qb-garages
+[           resources] Started resource qb-garages
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[    c-scripting-core] Creating script environments for qb-hud
+[           resources] Started resource qb-hud
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] Creating script environments for qb-inventory
+[           resources] Started resource qb-inventory
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[           resources] Started resource qb-loading
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-spawn
+[           resources] Started resource qb-spawn
+[    c-scripting-core] Creating script environments for qb-multicharacter
+[           resources] Started resource qb-multicharacter
+[    c-scripting-core] Creating script environments for qb-newsjob
+[           resources] Started resource qb-newsjob
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-phone
+[           resources] Started resource qb-phone
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] Started resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] Started resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] Started resource qb-recyclejob
+[    c-scripting-core] Creating script environments for qb-scoreboard
+[           resources] Started resource qb-scoreboard
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-shops
+[           resources] Started resource qb-shops
+[    c-scripting-core] Creating script environments for qb-smallresources
+[           resources] Started resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] Started resource qb-storerobbery
+[    c-scripting-core] Creating script environments for qb-streetraces
+[           resources] Started resource qb-streetraces
+[           resources] Started resource qb-target
+[    c-scripting-core] Creating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] Started resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] Started resource qb-vehiclekeys
+[    c-scripting-core] Creating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-vineyard
+[           resources] Started resource qb-vineyard
+[    c-scripting-core] Creating script environments for qb-weed
+[           resources] Started resource qb-weed
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for connectqueue
+[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[           resources] Stopping resource hardcap
+[           resources] Started resource connectqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[           resources] Started resource progressbar
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for qb-radio
+[           resources] Started resource qb-radio
+[           resources] Started resource dealer_map
+[           resources] Started resource hospital_map
+[           resources] Started resource prison_canteen
+[resources:prison_mai] Asset prison_main/desertos_prison.ytd uses 30.5 MiB of physical memory.
+[           resources] Started resource prison_main (1 warning)
+[           resources] Started resource prison_meeting
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.11.11-MariaDB-0+deb12u1] Database server connection established!
+[ script:qb-inventory] 3 inventories successfully loaded
+[      script:oxmysql] An update is available for oxmysql (current version: 2.12.0)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.13.0
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://abhishek-angadi-mr4bq7.users.cfx.re/
+[ script:connectqueue] QUEUE: VAGMAN[license:292064ceeeb052f3cddacccda25f20df30c91ec5] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: VAGMAN[license:292064ceeeb052f3cddacccda25f20df30c91ec5] has rejoined queue after cancelling
+[ script:connectqueue] QUEUE: VAGMAN[license:292064ceeeb052f3cddacccda25f20df30c91ec5] is loading into the server
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[script:qb-multichara] [qb-core] VAGMAN (Citizen ID: HCR97996) has successfully loaded!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[         script:chat] VAGMAN: ADMIN
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] VAGMAN PLAYER SAVED!

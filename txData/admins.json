@@ -1,0 +1,38 @@
+[
+  {
+    "$schema": 1,
+    "name": "Abhishek_Angadi",
+    "master": true,
+    "password_hash": "$2a$11$GVsGqltwUsd8CFXOZrziW.VMXmRFhyAKShA3Mul1wM4p1McLLQSEi",
+    "providers": {
+      "citizenfx": {
+        "id": "Abhishek_Angadi",
+        "identifier": "fivem:16525418",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "user",
+    "master": false,
+    "password_hash": "$2a$11$/xpUKlN4zxXhkU.WGJFS6.znPbHNSziIBgB/ZPNicy2gDmoKdPWZi",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "vagman_YT",
+        "identifier": "fivem:15558152",
+        "data": {}
+      },
+      "discord": {
+        "id": "894627962048102441",
+        "identifier": "discord:894627962048102441",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
